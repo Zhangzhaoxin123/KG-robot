@@ -44,12 +44,6 @@
    修改Send_post.py中的相关参数，修改请求发送目标数据库，运行Search_gui.py启动前端
 
 
-#### 感谢    
-
-本项目在开发过程中按项目需要抽取并修改该开源工具中部分源码并使用，特别感谢：
-
-deepke：https://github.com/zjunlp/deepke
-
 
 
 #### 参与贡献
